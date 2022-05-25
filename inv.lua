@@ -1,6 +1,8 @@
 trash = {
     'minecraft:cobblestone',
     'minecraft:dirt',
+    'minecraft:cobbled_deepslate',
+    'minecraft:andesite',
     'forbidden_arcanus:darkstone',
     'byg:rocky_stone',
     'byg:scoria_cobblestone',
